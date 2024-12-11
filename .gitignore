@@ -1,0 +1,3 @@
+*.css
+!*.min.css
+public/js/script.js
