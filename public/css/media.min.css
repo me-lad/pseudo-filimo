@@ -366,8 +366,4 @@
     -ms-flex-pack: center;
     justify-content: center;
   }
-  .homeBtn__link {
-    bottom: 6.5rem;
-    right: 1.75rem;
-  }
 }
